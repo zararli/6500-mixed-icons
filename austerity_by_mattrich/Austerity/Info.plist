@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+
+<key>UndockedIconLabelStyle</key>
+<string>color: SlateGray</string>
+
+<key>DockedIconLabelStyle</key>
+<string>color: LightSteelBlue</string>
+
+<key>CalendarIconDateStyle</key>
+<string>padding-bottom: 13;font-size: 13</string>
+
+<key>CalendarIconDayStyle</key>
+<string>visibility: hidden</string>
+
+</dict></plist>
